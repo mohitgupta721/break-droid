@@ -1,4 +1,4 @@
-## Evil-Droid Framework . version 0.3 
+## Break-Droid Framework . version 0.3 
     Author: Mohit Gupta [ Linux-Techie ]
 
 ## Legal Disclamer:
@@ -28,7 +28,7 @@
          chmod +x break-droid
 
 
-    4?- Run Evil-Droid Framework :
+    4?- Run Break-Droid Framework :
        ./break-droid
          see options below	   
       
